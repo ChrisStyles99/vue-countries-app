@@ -1,24 +1,9 @@
-# countries-app
+# Countries app
 
-## Project setup
-```
-npm install
-```
+This app list all the countries, with the help of the RESTCountries API
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+It has views for all single countries and some information
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Features
+* Made with Vue JS
+* Vue-router
